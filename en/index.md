@@ -15,8 +15,7 @@ As a robotics system design and control expert, I have over two years of experie
 
 ## 📞 Contact
 - **Email**: amogae7@gmail.com
-- **Phone**: +82-10-6408-9063
-- **GitHub**: [github.com/kangyublee](https://github.com/kangyublee)
+- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
 
 ## 🎓 Education
 
