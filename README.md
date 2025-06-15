@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Lee_KangYub's&fontSize=60&desc=profile%20&descAlign=78)
-# 🌐 Select Language
 
 [🇰🇷 Korean Version](/ko/) | [🇺🇸 English Version](/en/)
 ## 👨‍💻 전문 요약
