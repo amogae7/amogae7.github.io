@@ -15,8 +15,7 @@
 
 ## 📞 연락처
 - **이메일**: amogae7@gmail.com 
-- **전화번호**: 010-6408-9063
-- **GitHub**: [github.com/kangyublee](https://github.com/kangyublee)
+- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
 
 ## 🎓 학력
 
