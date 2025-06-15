@@ -83,7 +83,7 @@ As a robotics system design and control expert, I have over two years of experie
 ### First Author
 - **Rope on Rope: Reducing residual vibrations in rope-based anchoring system and rope-driven façade operation robot**
   - Journal: **Sensors** (SCI)
-  - Status: Submitted (Dec 2024)
+  - Publication Date: Apr, 2025
   - Contribution: Developed and verified a control algorithm to reduce residual vibrations in rope-based multi-robot systems
 
 ### Co-Author
