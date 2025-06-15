@@ -2,6 +2,11 @@
 
 # Kang Yub Lee
 
+## 📞 Contact
+- **Email**: amogae7@gmail.com
+- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
+- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+- 
 ## 👨‍💻 Professional Summary
 As a robotics system design and control expert, I have over two years of experience in developing robots for extreme environments and implementing embedded systems based on ROS2. I have developed innovative robotic platforms for unstructured environments, such as rope-climbing robots and mobile anchor systems. My expertise lies in vibration control algorithms and hardware-software integrated system design.
 
@@ -13,10 +18,12 @@ As a robotics system design and control expert, I have over two years of experie
 - **Embedded system programming (C/Python)**
 - **Hardware-software interface design**
 
-## 📞 Contact
-- **Email**: amogae7@gmail.com
-- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
-- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+## 🛠️ Technical Skills
+- **Robotics Development**: ROS2 (Intermediate), Linux (Intermediate), Robot Kinematics (Advanced)
+- **Programming**: C (Intermediate), Python (Intermediate), MATLAB (Advanced)
+- **Design Tools**: Autodesk Inventor (Advanced), CATIA (Intermediate)
+- **Embedded Systems**: MCU programming (ESP32, Arduino), CAN communication, SBC (Raspberry Pi, Jetson Nano)
+- **Simulation**: MATLAB & Simulink (Advanced)
 
 ## 🎓 Education
 
@@ -109,13 +116,6 @@ As a robotics system design and control expert, I have over two years of experie
 
 ## 🏆 Awards
 - **Excellence Award at Hanyang University Capstone Design Presentation** | May 2022
-
-## 🛠️ Technical Skills
-- **Robotics Development**: ROS2 (Intermediate), Linux (Intermediate), Robot Kinematics (Advanced)
-- **Programming**: C (Intermediate), Python (Intermediate), MATLAB (Advanced)
-- **Design Tools**: Autodesk Inventor (Advanced), CATIA (Intermediate)
-- **Embedded Systems**: MCU programming (ESP32, Arduino), CAN communication, SBC (Raspberry Pi, Jetson Nano)
-- **Simulation**: MATLAB & Simulink (Advanced)
 
 ## 🌐 Language Proficiency
 - **Korean**: Native
