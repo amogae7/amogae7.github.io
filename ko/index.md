@@ -84,7 +84,7 @@
 ### 주저자
 - **Rope on Rope: Reducing residual vibrations in rope-based anchoring system and rope-driven facade operation robot**
   - 저널: **Sensors** (SCI)
-  - 상태: 투고 중 (2024.12)
+  - 게재일 : 2025.04.14
   - 핵심 기여: 로프 기반 다중 로봇 시스템의 잔류 진동을 저감하는 제어 알고리즘 개발 및 검증
 
 ### 공동저자
