@@ -16,7 +16,8 @@
 ## 📞 연락처
 - **이메일**: amogae7@gmail.com 
 - **GitHub**: [github.com/amogae7](https://github.com/amogae7)
-
+- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+- 
 ## 🎓 학력
 
 ### 한양대학교 공학기술대학원 | 2023.03 - 2025.02
