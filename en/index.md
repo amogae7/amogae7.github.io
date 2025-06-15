@@ -2,11 +2,6 @@
 
 # Kang Yub Lee
 
-## 📞 Contact
-- **Email**: amogae7@gmail.com
-- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
-- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
-- 
 ## 👨‍💻 Professional Summary
 As a robotics system design and control expert, I have over two years of experience in developing robots for extreme environments and implementing embedded systems based on ROS2. I have developed innovative robotic platforms for unstructured environments, such as rope-climbing robots and mobile anchor systems. My expertise lies in vibration control algorithms and hardware-software integrated system design.
 
@@ -135,3 +130,8 @@ As a robotics system design and control expert, I have over two years of experie
 - **Practice Problem Research Group for Carbon Neutral ESG Talent Development** | Mar 2022 - Dec 2022
   - Role: Designed HW and developed SW for a service robot using center-of-mass control
   - Outcome: Developed a safer and more stable service robot platform
+
+## 📞 Contact
+- **Email**: amogae7@gmail.com
+- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
+- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
