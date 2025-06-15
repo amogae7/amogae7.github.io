@@ -16,6 +16,7 @@ As a robotics system design and control expert, I have over two years of experie
 ## 📞 Contact
 - **Email**: amogae7@gmail.com
 - **GitHub**: [github.com/amogae7](https://github.com/amogae7)
+- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
 
 ## 🎓 Education
 
