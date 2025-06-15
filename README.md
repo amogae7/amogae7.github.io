@@ -4,6 +4,11 @@
 ## 👨‍💻 전문 요약
 로봇 설계 및 제어 시스템 개발 전문가로, 특수 환경용 로봇 개발과 ROS2 기반 임베디드 시스템 구현에 2년 이상의 경험을 보유하고 있습니다. 로프 등강 로봇, 모바일 앵커 시스템 등 비정형 환경에서 작동하는 혁신적 로봇 플랫폼을 개발했으며, 진동 제어 알고리즘 및 하드웨어-소프트웨어 통합 시스템 설계에 전문성을 갖추고 있습니다.
 
+## 📞 연락처
+- **이메일**: amogae7@gmail.com 
+- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
+- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+- 
 ## 🔑 핵심 역량
 - **비정형 환경 로봇 시스템 설계 및 개발**
 - **ROS2 기반 로봇 제어 시스템 구현**
@@ -12,10 +17,12 @@
 - **임베디드 시스템 프로그래밍 (C/Python)**
 - **하드웨어-소프트웨어 인터페이스 설계**
 
-## 📞 연락처
-- **이메일**: amogae7@gmail.com 
-- **GitHub**: [github.com/amogae7](https://github.com/amogae7)
-- **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+## 🛠️ 기술 스택
+- **로봇 개발**: ROS2(중급), Linux(중급), 로봇 키네마틱스(고급)
+- **프로그래밍**: C(중급), Python(중급), MATLAB(고급)
+- **설계 도구**: Autodesk Inventor(고급), CATIA(중급)
+- **임베디드 시스템**: MCU 프로그래밍(ESP32, Arduino), CAN 통신, SBC(Raspberry Pi, Jetson Nano)
+- **시뮬레이션**: MATLAB & Simulink(고급)
   
 ## 🎓 학력
 
@@ -110,13 +117,6 @@
 ## 🏆 수상 실적
 - **한양대학교 종합 설계 발표회 우수상** | 2022.05
   - 2022학년도 1학기 한양대학교 기계공학종합 설계 발표대회
-
-## 🛠️ 기술 스택
-- **로봇 개발**: ROS2(중급), Linux(중급), 로봇 키네마틱스(고급)
-- **프로그래밍**: C(중급), Python(중급), MATLAB(고급)
-- **설계 도구**: Autodesk Inventor(고급), CATIA(중급)
-- **임베디드 시스템**: MCU 프로그래밍(ESP32, Arduino), CAN 통신, SBC(Raspberry Pi, Jetson Nano)
-- **시뮬레이션**: MATLAB & Simulink(고급)
 
 ## 🌐 언어 능력
 - **한국어**: 모국어
