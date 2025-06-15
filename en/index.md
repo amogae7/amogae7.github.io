@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Lee_KangYub's&fontSize=60&desc=profile%20&descAlign=78)
 [🇰🇷 Korean CV](/ko/)
-
-# Kang Yub Lee
 
 ## 👨‍💻 Professional Summary
 As a robotics system design and control expert, I have over two years of experience in developing robots for extreme environments and implementing embedded systems based on ROS2. I have developed innovative robotic platforms for unstructured environments, such as rope-climbing robots and mobile anchor systems. My expertise lies in vibration control algorithms and hardware-software integrated system design.
