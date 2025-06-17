@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
- Youtube_Video : https://www.youtube.com/watch?v=hb9WydOYG6A
+ Youtube_Video : [![Video Label](http://img.youtube.com/vi/hb9WydOYG6A/0.jpg)](https://youtu.be/hb9WydOYG6A?t=0s)
 </div>
 
 ## 📑 연구 논문
