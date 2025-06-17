@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
- Youtube_Video : https://youtu.be/hb9WydOYG6A
+ Youtube_Video : https://www.youtube.com/watch?v=hb9WydOYG6A
 </div>
 
 ## 📑 연구 논문
