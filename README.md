@@ -98,7 +98,7 @@
 - **Rope on Rope: Reducing residual vibrations in rope-based anchoring system and rope-driven facade operation robot**
   - 저널: **Sensors** (SCI)
   - 게재일: 2025.04.14
-  - 기여: 로봇 HW 설계 및 임베디드SW 개발 / 로프 기반 로봇의 잔류진동 제어 알고리즘 개발 및 검증
+  - 기여: 로봇 HW 설계 및 임베디드SW 개발 / 로프기반 로봇의 잔류진동 제어 알고리즘 개발 및 검증
 
 ### 공동저자
 - **The stiffness adjustable wheel mechanism based on compliant spoke deformation**
