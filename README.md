@@ -72,7 +72,7 @@
 <img src="https://github.com/user-attachments/assets/2a5429c2-dda2-4379-9888-99c128ec063b" width="600" height="300">
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/eeaf0662-8083-486b-8d63-109fc345da43" width="900" height="400">
+<img src="https://github.com/user-attachments/assets/eeaf0662-8083-486b-8d63-109fc345da43" width="1000" height="400">
 </div>
 
 ### DAR (Dual Ascending Robot) 진동 제어 개선 | 2024.01 - 2024.12
@@ -85,7 +85,7 @@
   - SCI 저널 논문 투고 (Sensors)
     
 <div align="center">
-<img src="https://github.com/user-attachments/assets/203aed7e-9425-4914-9423-4491b34f2dad" width="950" height="400">
+<img src="https://github.com/user-attachments/assets/203aed7e-9425-4914-9423-4491b34f2dad" width="1000" height="400">
 </div>
 
 <div align="center">
