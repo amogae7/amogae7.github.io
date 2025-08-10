@@ -120,7 +120,7 @@
   
 ## 💼 주요 프로젝트 및 성과
 
-### **외벽 청소 로봇 플랫폼 개발 | 2023.03 - 2024.12 **
+### **Façade cleaning robot project | 2023.03 - 2024.12 **
 
 - **성과**:
   - 비정형 형상 건물(*고척스카이돔)에 **적용 가능한 로봇 시스템을 개발**하여 기존 방식 대비 **작업 영역을 40% 확장**
@@ -137,6 +137,10 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c6cf36b8-74a6-4e57-b0e2-861994493488" width="600" height="300">
 </div>
+<div align="center">
+그림1. 외벽 청소 로봇의 고척스카이돔 현장 테스트 
+</div>
+
 
 ### **RMA (Rope-Riding Mobile Anchor) 시스템 개발 | 2023.01 - 2023.12**
 - **성과**:
@@ -154,7 +158,14 @@
 <img src="https://github.com/user-attachments/assets/2a5429c2-dda2-4379-9888-99c128ec063b" width="600" height="300">
 </div>
 <div align="center">
+그림1. 로프 위를 주행하는 RMA
+</div>
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/eeaf0662-8083-486b-8d63-109fc345da43" width="1000" height="400">
+</div>
+<div align="center">
+그림2. RMA를 활용한 DAR의 작업영역 및 조작도 향상 실험
 </div>
 
 ### **DAR (Dual Ascending Robot) 잔류 진동 제어 | 2024.01 - 2024.12**
@@ -170,11 +181,16 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/203aed7e-9425-4914-9423-4491b34f2dad" width="1000" height="400">
 </div>
+<div align="center">
+그림1. 소형 DAR과 진동제어 실험 개요
+</div>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/44152df5-bac9-4162-b81d-ea646a0236db" width="900" height="450">
 </div>
-
+<div align="center">
+그림2. 진동제어 알고리즘 비교 실험 결과
+</div>
 
 <div align="center">
  Youtube_Video : https://www.youtube.com/watch?v=hb9WydOYG6A
