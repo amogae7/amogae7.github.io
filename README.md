@@ -148,8 +148,12 @@
 </div>
 <div align="center">
 그림1. 외벽 청소 로봇의 고척스카이돔 현장 테스트 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d9dcf2d0-2baa-4ae6-8e52-de3b6f2d62ea" width="600" height="600">
 </div>
-
+<div align="center">
+그림2. 경사면 청소 및 장애물 극복
+</div>
 
 ### **RMA (Rope-Riding Mobile Anchor) 시스템 개발** | 2023.01 - 2023.12
 - **성과**:
