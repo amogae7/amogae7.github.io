@@ -148,6 +148,7 @@
 </div>
 <div align="center">
 그림1. 외벽 청소 로봇의 고척스카이돔 현장 테스트 
+</div>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d9dcf2d0-2baa-4ae6-8e52-de3b6f2d62ea" width="600" height="600">
 </div>
@@ -210,10 +211,7 @@
 </div>
 
 
-
-
-
 ## 📞 연락처
 - **이메일**: amogae7@gmail.com 
-<!-- - **GitHub**: [github.com/amogae7](https://github.com/amogae7) -->
 - **LinkedIn**: [linkedin.com/in/강엽-이-31254836b](https://www.linkedin.com/in/강엽-이-31254836b/)
+<!-- - **GitHub**: [github.com/amogae7](https://github.com/amogae7) -->
