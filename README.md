@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Lee_KangYub's&fontSize=60&desc=profile%20&descAlign=78)
 
-<!-- [🇰🇷 Korean Version](/ko/) | [🇺🇸 English Version](/en/) -->
+[🇰🇷 Korean Version](/ko/) | [🇺🇸 English Version](/en/)
 
 ## 👨‍💻 소개
 - 바디, 전장부를 비롯한 HW 설계부터 SW 프로그래밍 및 구동까지 모바일 로봇의 End-to-End 개발 경험 보유
